@@ -1,32 +1,24 @@
 What is my value? 
 
-  My life is dedicated to hacking and math. Hacking isn't about being a criminal; it's about logical analysis, reverse engineering, 
-and creativity. Mathematics is how I find my meaning in life. To view this through a lens, note that all science is built off of math, and all 
-engineering is built off of science; so math gives me the key to any science and engineering. 
-
+Bug bounties! This is what seperates me from someone else with simular education and qualifications. Bug bounties provide real world practice; thses applications have professional level sucurity with rules of engagement for those who want to compete. I would love to talk more about the bug bounties and what lessons I have learned.
 
 
 Required Education and qualifications:
 
-a) I am pursuing a degree in pure mathematics; because mathematics gives you the broadest 
-set of problem-solving skills through rigorous logic and creativity. 
+a) I am pursuing a degree in pure mathematics; because mathematics gives you the broadest set of problem-solving skills through rigorous logic and creativity. It can be used for run time problems, machine learning, modeling, cryptography...
 
 b) I used Microsoft Office and other team tools that align with what is in Microsoft 365 while I worked at State Farm.
 
-c) I have used Microsoft OS for most of my life. Just recently I have gotten used to Mac OS and the terminal commands. I am excited to sharpen my command prompt skills.
+c) I have used Microsoft OS for most of my life. Just recently I have gotten used to Mac OS and the terminal commands. I am excited to sharpening my command prompt skills.
 
-d) Underneath networking I feel the strongest with the dev tool network tab. I use this religiously. I have found that typical network scans are 
-great for getting basic information like IP addresses, Mac addresses, open ports, and if the system is on. However, have gotten way more useful information from the 
-dev tool when working on web exploits.
+d) Underneath networking I feel the strongest with the dev tool network tab. I use this religiously. I have found that typical network scans are great for getting basic information like IP addresses, Mac addresses, open ports, and if the system is on. However, have gotten way more useful information from the dev tool when working on web exploits.
 
-e)For problem-solving one excellent example is my ability to solve run-time problems. These problems are a subset of number theory called analytical number theory.
-The difference between me and a comp sci major is that I can write a rigours proof. I will link this proof in my email.
+e)For problem-solving one excellent example is my ability to solve run-time problems. These problems are a subset of number theory called analytical number theory.The difference between me and a comp sci major is that I can write a rigours proof. I will link this proof in my email.
 
 f)For my ability to document my work I have a GitHub which will be my scientific journal for my cyber security journey. I also have a personal 
 handwritten research journal as well. A day without contributing to either is a day wasted. I hold my research near and dear to my heart. 
 
-g) For communication skills I am proud to announce that I was a salesman. I look forward to using this skill to defuse unpleasant situations. No one likes it when their computer
-does not work, so it's my job to lower the anxiety, make them feel better, and then solve the problem. I have experience working with clients from all walks of life with varying problems.
+g) For communication skills I am proud to announce that I was a salesman. I look forward to using this skill to defuse unpleasant situations. No one likes it when their computer does not work, so it's my job to lower the anxiety, make them feel better, and then solve the problem. I have experience working with clients from all walks of life with varying problems.
 
-h) For managing my time I am very good at finding something to do once I understand responsibilities and expectations. I also dealt with the personal information of clients at State Farm. 
+h) If I fully undestand my expectations and responsibilities I can keep my self busy, deligate my time to handling the most important repsonisbiltis first. For example I had to learn to drive the fork lift. As the driver you are not always busy moving meterial so what do you do then. I organized the yard and stacked all wood, I took responsibility for the dumpseters being empty and making sure palletes are cut to size and no metal in dumpters, aslo took on the responsibility of making sure the desiel is avaible for all machines was filled when empty. I also got my first introduction to prints from taking invetory when unloading trucks for example making sure all metrial was on list before signing. And finally how to properly rig things for crane. These are all of the reponsibilitys I unlocked from being a fork lift driver being active instead of just doing nothing. 
 
